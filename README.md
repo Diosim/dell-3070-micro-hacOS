@@ -21,17 +21,17 @@ Dell OptiPlex 3070 with i5-9600k on macOS Monterey 12.0
 
 #### Working: 
 
-Audio
-GPU 
-All USB Ports
-LAN
-Airdrop & Airplay
-Sleep
-Internal sound and hdmi
-DisplayPort monitor & HDMI monitor + wake/sleep
+- Audio
+- GPU 
+- All USB Ports
+- LAN
+- Airdrop & Airplay
+- Sleep
+- Internal sound and hdmi
+- DisplayPort monitor & HDMI monitor + wake/sleep
 
 Not working: 
-WiFi has issues when enabled / make mouse sluggish
+- WiFi has issues when enabled / make mouse sluggish
 
 #### BIOS Settings
 

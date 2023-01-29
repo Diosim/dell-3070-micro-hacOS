@@ -37,12 +37,12 @@ Not working:
 
 #### BIOS Settings
 
-General → Advanced Boot Options: uncheck
-System Configuration → SATA Operation: AHCI
-Secure Boot → Secure Boot Enable: Disabled
-Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled
-Power Management → Block Sleep: check
-Virtualization Support → VT for Direct I/O: uncheck
+General → Advanced Boot Options: uncheck  
+System Configuration → SATA Operation: AHCI  
+Secure Boot → Secure Boot Enable: Disabled  
+Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled  
+Power Management → Block Sleep: check  
+Virtualization Support → VT for Direct I/O: uncheck  
 
 ##### BIOS Settings via GRUB (Optional)
 ## BIOS Settings via GRUB (Optional) for dell OPTIPLEX 3070MFF

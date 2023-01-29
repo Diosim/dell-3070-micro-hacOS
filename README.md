@@ -5,6 +5,8 @@ Dell OptiPlex 3070 with i5-9600k on macOS Monterey 12.0
 
 - Bootloader version: Opencore 0.7.1
 - macOS version: macOS Monterey 12.1
+
+
 ![Oops!There was supposed to be an image here](https://i.imgur.com/jKUO4oY.png)
 
 #### Hardware Specification

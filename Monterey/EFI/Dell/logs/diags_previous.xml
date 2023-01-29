@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>69</LogNumber>
+    <LogTimeStamp>01/15/2022 21:47:19</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Warning</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <LogData>
+        <ePSALogTimeStamp>01/15/2022 21:47:08</ePSALogTimeStamp>
+        <ePSAVersion>4400.07</ePSAVersion>
+        <ErrorCode>2000:0000</ErrorCode>
+        <ValidationCode>86730</ValidationCode>
+        <ErrorMessage><![CDATA[No bootable devices found.
+
+]]></ErrorMessage>
+      </LogData>
+      <MemRxHealed>FALSE</MemRxHealed>
+      <ePSAInfo><![CDATA[serviceTag=60K69Z2&errCode=0000&ValCode=86730&uID=03A80]]></ePSAInfo>
+      <ePSAFullVersion>4400.07</ePSAFullVersion>
+      <ePSAInvocationCount>6</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>NO_BOOT</ErrorCategory>
+      <Flags>BIOSCONNECT_ENABLED</Flags>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>

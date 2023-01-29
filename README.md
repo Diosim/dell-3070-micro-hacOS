@@ -37,7 +37,7 @@ Not working:
 
 #### BIOS Settings
 
-General → Advanced Boot Options: uncheck  
+General → Advanced Boot Options: uncheck  / Allow legacy boot
 System Configuration → SATA Operation: AHCI  
 Secure Boot → Secure Boot Enable: Disabled  
 Intel® Software Guard Extensions™ → Intel® SGX™ Enable: Disabled  

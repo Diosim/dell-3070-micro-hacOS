@@ -45,11 +45,9 @@ Power Management → Block Sleep: check
 Virtualization Support → VT for Direct I/O: uncheck
 
 ##### BIOS Settings via GRUB (Optional)
-##BIOS Settings via GRUB (Optional) for dell OPTIPLEX 3070MFF
+## BIOS Settings via GRUB (Optional) for dell OPTIPLEX 3070MFF
 
-Set Pre-Allocated DVMT to 64M:
-setup_var 0x8DC 0x02
+- Set Pre-Allocated DVMT to 64M: setup_var 0x8DC 0x02
 default was 0x01
-Disable CFG lock:
-setup_var 0x5BE 0x00
+- Disable CFG lock: setup_var 0x5BE 0x00
 default was 0x01

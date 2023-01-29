@@ -1,4 +1,4 @@
-Dell OptiPlex 3070 with i5-9600k on macOS Monterey 12.0
+Dell OptiPlex 3070 with i3-9100T on macOS Monterey 12.1
 ============================================
 
 
@@ -12,7 +12,7 @@ Dell OptiPlex 3070 with i5-9600k on macOS Monterey 12.0
 #### Hardware Specification
 | Component | Specs |
 |------------|----------------------------------------|
-| **CPU**     | `Intel® Core™ i5-9100T` |   
+| **CPU**     | `Intel® Core™ i3-9100T` |   
 | **RAM**     | `8gb DDR4 2400MHZ`|   
 | **HDD**     | `SKHynix NVMe SSD 256GB`|
 | **iGPU**    | `Intel® UHD Graphics 630`|

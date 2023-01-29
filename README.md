@@ -20,6 +20,8 @@ Dell OptiPlex 3070 with i3-9100T on macOS Monterey 12.1
 | **OS**      | `macOS Monterey 12.0 (21A5284e)`|
 | **Boot**    | `OpenCore 0.7.1`|
 | **WiFi/BT**    | `BCM943602CS /w adapter`|
+| **SMBios**   | `Macmini8,1`|
+
 
 #### Working: 
 

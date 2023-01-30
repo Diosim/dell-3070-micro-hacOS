@@ -299,6 +299,8 @@
 				<string>VGA compatible controller</string>
 				<key>disable-external-gpu</key>
 				<data>AQAAAA==</data>
+				<key>force-online</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-busid</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-enable</key>
@@ -333,8 +335,6 @@
 				<string>onboard-1</string>
 				<key>model</key>
 				<string>Intel UHD Graphics 630</string>
-				<key>force-online</key>
-				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1166,11 +1166,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C07826100CDKXPG1H</string>
+			<string>YOURSHERE</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>HlZtljsr</data>
+			<data>7g==</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1178,9 +1178,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07WXMZ1JYVX</string>
+			<string>YOURSHERE</string>
 			<key>SystemUUID</key>
-			<string>1EAE58DB-BD9F-424E-B2C5-EF2A37877231</string>
+			<string>YOURSHERE</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

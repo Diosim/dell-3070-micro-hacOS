@@ -1,4 +1,4 @@
-Dell OptiPlex 3070 with i3-9100T on macOS Monterey 12.1
+Dell OptiPlex 3070 micro with i3-9100T on macOS Monterey 12.1
 ============================================
 
 

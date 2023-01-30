@@ -35,7 +35,7 @@ Dell OptiPlex 3070 with i3-9100T on macOS Monterey 12.1
 - DisplayPort monitor & HDMI monitor + wake/sleep
 
 Not working: 
-- WiFi has issues when enabled / make mouse sluggish
+- WiFi has issues when enabled / makes magic mouse sluggish
 
 #### BIOS Settings
 
